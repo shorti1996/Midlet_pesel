@@ -1,0 +1,8 @@
+MIDlet-1: MyMidlet2,,App2.MyMidlet2
+MIDlet-Jar-Size: 4522
+MIDlet-Jar-URL: App2.jar
+MIDlet-Name: App2 MIDlet Suite
+MIDlet-Vendor: MIDlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
